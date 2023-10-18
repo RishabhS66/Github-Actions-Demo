@@ -44,7 +44,7 @@ public class TransactionHandler {
             boolean check = depositPossible(amount, acc);
 
             acc.setNoOfDeposits(acc.getNoOfDeposits()+1);
-            acc.setBalance(acc.getBalance()+2*amount);
+            acc.setBalance(acc.getBalance()+amount);
             return acc.getBalance();
         }
         catch(Exception e) {
