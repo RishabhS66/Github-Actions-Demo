@@ -1,7 +1,8 @@
-# Bank Project
+# GitHub Actions Demo using a sample Bank Interface Project
 
-This is a Maven project to simulate some basic features of a bank, like account creation, money deposit and withdrawal and transferring of money between 2 accounts.  
-To run the project, please follow the steps mentioned below -
+This is a Maven project to simulate some basic features of a bank, like account creation, money deposit and withdrawal and transferring of money between 2 accounts. The repo then uses GitHub Actions to verify any changes being made to the codebase.
+
+To run the project locally, please follow the steps mentioned below -
 
 1. Install Maven (steps [here](https://maven.apache.org/install.html)).
 2. Run **mvn clean install** in the Terminal, at the folder where pom.xml file is present. This will run all the tests, and will create a "target" folder. The "target" folder will contain the JAR file.
