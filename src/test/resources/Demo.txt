@@ -1,0 +1,22 @@
+Create “Amit Dugal”
+Create “Gauri Kalla”
+Deposit 10000 500
+Deposit 10000 1000
+Deposit 10000 100
+Deposit 10000 60000
+Deposit 10000 10000
+Deposit 10000 10000
+Balance 10000
+Withdraw 10000 500
+Withdraw 10000 20000
+Withdraw 10000 1000
+Withdraw 10000 1900
+Withdraw 10000 1000
+Withdraw 10000 5000
+Create “Rishabh Srivastava”
+Create “Avi Srivastava”
+Deposit 10002 10000
+Transfer 10002 10003 5000
+Transfer 10002 10003 500
+Transfer 10002 10003 30000
+Exit
